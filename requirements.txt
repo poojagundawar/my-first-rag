@@ -14,7 +14,7 @@ pysqlite3-binary
     unstructured==0.15.0
     unstructured[pdf]==0.15.0
     nltk==3.8.1 
-    sqlite3=3.49.0
+    sqlite3==3.49.0
 
 - first run vectorize_documents.py file for dataset to vectorize vectorize_documents
 - Then run as : streamlit run main_l.py file for UI
